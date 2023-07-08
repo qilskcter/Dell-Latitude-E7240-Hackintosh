@@ -1,0 +1,64 @@
+─ CPU
+  └── Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz
+      ├── Cores: 2
+      ├── Threads: 4
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Motherboard
+  ├── Model: 08YF01
+  └── Manufacturer: Dell Inc.
+
+─ GPU
+  └── Intel(R) HD Graphics 4400
+      ├── Device ID: 0x0A16
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
+      └── ACPI Path: \_SB.PCI0.GFX0
+
+─ Memory
+  ├── HMT451S6BFR8A-PB (Part-Number)
+  │   ├── Type: DDR3
+  │   ├── Slot
+  │   │   ├── Bank: 
+  │   │   └── Channel: DIMM A
+  │   ├── Frequency (MHz): 1600 MHz
+  │   ├── Manufacturer: Hynix/Hyundai
+  │   └── Capacity: 4096MB
+  └── M471B5173QH0-YK0 (Part-Number)
+      ├── Type: DDR3
+      ├── Slot
+      │   ├── Bank: 
+      │   └── Channel: DIMM B
+      ├── Frequency (MHz): 1600 MHz
+      ├── Manufacturer: Samsung
+      └── Capacity: 4096MB
+
+─ Network
+  ├── Ethernet Connection I218-LM
+  │   ├── Device ID: 0x155A
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x19,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GLAN
+  └── Centrino Advanced-N 6205 [Taylor Peak]
+      ├── Device ID: 0x0085
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x3)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP04.PXSX
+
+─ Audio
+  └── Realtek ALC292
+      ├── Device ID: 0x0292
+      └── Vendor: 0x10EC
+
+─ Input
+  └── HID-compliant mouse
+      ├── Product ID: 0x4106
+      └── Vendor ID: 0x062A
+
+─ Storage
+  └── KimMiDi T900 128GB
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: Serial ATA (SATA)
+      └── Location: Internal
+
